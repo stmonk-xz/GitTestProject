@@ -15,6 +15,7 @@
 		EA7CE6F822E83AE30087C512 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7CE6F722E83AE30087C512 /* main.m */; };
 		EA7CE70222E83AE30087C512 /* GitTestProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7CE70122E83AE30087C512 /* GitTestProjectTests.m */; };
 		EA7CE70D22E83AE30087C512 /* GitTestProjectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7CE70C22E83AE30087C512 /* GitTestProjectUITests.m */; };
+		EA7CE71C22E844350087C512 /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = EA7CE71B22E844350087C512 /* ViewController2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		EA7CE70822E83AE30087C512 /* GitTestProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA7CE70C22E83AE30087C512 /* GitTestProjectUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitTestProjectUITests.m; sourceTree = "<group>"; };
 		EA7CE70E22E83AE30087C512 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA7CE71A22E844350087C512 /* ViewController2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController2.h; sourceTree = "<group>"; };
+		EA7CE71B22E844350087C512 /* ViewController2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				EA7CE6E922E83AE10087C512 /* AppDelegate.m */,
 				EA7CE6EB22E83AE10087C512 /* ViewController.h */,
 				EA7CE6EC22E83AE10087C512 /* ViewController.m */,
+				EA7CE71A22E844350087C512 /* ViewController2.h */,
+				EA7CE71B22E844350087C512 /* ViewController2.m */,
 				EA7CE6EE22E83AE10087C512 /* Main.storyboard */,
 				EA7CE6F122E83AE30087C512 /* Assets.xcassets */,
 				EA7CE6F322E83AE30087C512 /* LaunchScreen.storyboard */,
@@ -263,6 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA7CE6ED22E83AE10087C512 /* ViewController.m in Sources */,
+				EA7CE71C22E844350087C512 /* ViewController2.m in Sources */,
 				EA7CE6F822E83AE30087C512 /* main.m in Sources */,
 				EA7CE6EA22E83AE10087C512 /* AppDelegate.m in Sources */,
 			);
