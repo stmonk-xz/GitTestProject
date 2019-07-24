@@ -20,6 +20,7 @@
     self.view.backgroundColor = [UIColor whiteColor];
     NSLog(@"branch commit 1");
     NSLog(@"branch commit 2");
+    NSLog(@"branch commit 3,after branch commit");
 }
 
 
